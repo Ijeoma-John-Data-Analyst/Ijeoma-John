@@ -22,7 +22,12 @@ Based in Lisbon, Portugal | Open to remote opportunities globally.
 ### Project 1 — Customer Shopping Behaviour Analysis
 - Dataset: 99,458 transactions across multiple shopping malls
 - Tools: Microsoft Excel, Tableau
-- Key Findings:
+- Key Findings:![Sales by Gender](9b5aef86-b1e3-4140-99a2-4e57b46efa04.jpeg)
+
+![Monthly Sales by Category](e8146422-0132-4192-bea3-895099ddae4b.jpeg)
+
+![Payment Method by Age Group](c7851bc1-4789-40c9-8d9a-001c1c60b120.jpeg)
+
   - Female customers drive 60% of total purchases
   - Clothing peaks in January and declines after April
   - Cash is the most preferred payment method across all age groups
