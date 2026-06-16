@@ -1,3 +1,5 @@
+<img src="IMG_1450.jpeg" width="200" style="border-radius:50%"/>
+
 # Ijeoma John | Data Analyst Portfolio
 
 ## About Me
