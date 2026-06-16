@@ -21,7 +21,7 @@ Based in Lisbon, Portugal | Open to remote opportunities globally.
 
 ## Work Experience
 
-### Data Analyst — ICR8tiv Solutions Ltd (2025 — Present)
+### Data Analyst — ICR8tiv Solutions Ltd (2026 — Present)
 Remote | Lisbon, Portugal
 - Conducting data analysis projects using Excel, SQL and Tableau
 - Analysing customer behaviour and sales trends
@@ -70,10 +70,6 @@ Luxe Balloons Nigeria (2021 — 2024)
 - Igbo — Native
 - Portuguese — Elementary
 
-## Currently Learning
-- SQL — SQLBolt
-- Tableau — Advanced Visualizations
-- Data Analysis — Independent Projects
 
 ## Contact
 - LinkedIn: linkedin.com/in/ijeoma-john-79b937414
